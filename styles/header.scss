@@ -1,0 +1,148 @@
+.header{
+    background: #002547;
+  
+    
+    
+ 
+    
+ }
+ .heder-wrapper{
+    
+    padding: 50px 231px 0 231px;
+    
+ }
+ 
+ 
+ .logo {
+    width: 110px;
+    height: 42px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ .logo__text{
+  font-family: Poppins;
+ font-style: normal;
+ font-weight: 600;
+ font-size: 22px;
+ line-height: 33px;
+ }
+ .list{
+    display: flex;
+ }
+ .list__item{
+    display: flex;
+    font-family: Poppins;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 130%;
+ text-transform: capitalize;
+ cursor: pointer;
+ margin-right: 40px;
+ }
+ .btn{
+    width: 147px;
+ height: 53px;
+ background: #FFFFFF;
+ border-radius: 5px;
+ cursor: pointer;
+ font-family: Poppins;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 18px;
+ line-height: 130%;
+ color: #1D92FF;
+ 
+ }
+ .logo-conteiner{
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    margin-left: 74px;
+ }
+ .title{
+    font-family: Poppins;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 160%;
+ letter-spacing: 0.05em;
+ text-transform: uppercase;
+ 
+ 
+ color: #1D92FF;
+ 
+ }
+ .saas{
+    font-family: Poppins;
+ font-style: normal;
+ font-weight: 500;
+ font-size: 60px;
+ line-height: 140%;
+ text-transform: capitalize;
+ color: #FFFFFF;
+ max-width: 580px;
+ 
+ 
+ }
+ .real{font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 140%;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    
+    color: #1D92FF;
+ }
+    .textnamder{
+       font-family: Poppins;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 18px;
+ line-height: 160%;
+ text-transform: capitalize;
+ color: rgba(255, 255, 255, 0.7);
+ max-width: 440px;
+    }
+    .flex{
+       display: flex;
+    }
+    .main-btn{
+       width: 205px;
+       height: 53px;
+ border-radius: 3px;
+ cursor: pointer;
+ border: none;
+ background-color: #FFF;
+ color: blue;
+       
+  }
+ .main-btn_color{
+    background-color: transparent;
+    border: 5px solid black;
+    margin-left: 30px;
+ 
+ }
+ .textmaster{position: absolute;
+    width: 449px;
+    height: 44px;
+    left: 238.74px;
+    top: 652.51px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: rgba(255, 255, 255, 0.5);
+ }
+ .main-blok{
+    display: flex;
+    
+ }
+ .right-blok {
+    
+ }

@@ -1,0 +1,92 @@
+@import './header.scss';
+
+body,ul{
+    margin: 0;
+    padding: 0;
+ }
+ li{
+    list-style: none;
+ }
+ *{
+    box-sizing: border-box;
+ }
+ 
+ .wrapper {
+    max-width: 1600px;
+    margin: 0 auto;
+    height: 850px;
+    
+ }
+ 
+ 
+ .main {
+    background-color:white;
+    
+ }
+ 
+ .flex-img {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 130px;
+    
+ 
+ width: 1145.58px;
+ height: 46.26px;
+ left: 226px;
+ top: 980px;
+ 
+ }
+ 
+ 
+ 
+ .twosaas{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 182px; 
+ }
+    
+ .leftblok{
+    margin-right: 150px;
+ 
+ }
+ .rightblok{
+    
+ }
+ .Lorem {
+    font-family: Poppins;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 160%;
+ letter-spacing: 0.05em;
+ text-transform: uppercase;
+ color: #1D92FF;
+ margin-top: 64px;
+ 
+ }
+ .text-title {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39px;
+    line-height: 140%;   
+    text-transform: capitalize;
+    max-width: 466px;
+ }
+ .twowin{
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
